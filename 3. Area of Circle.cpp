@@ -1,5 +1,5 @@
 /**
-    Calculate the area of a circular.
+    Calculate the area of a Circle.
     Formula: A = PI * r^2
     PI = 3.14159
 
