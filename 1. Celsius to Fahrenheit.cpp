@@ -1,5 +1,5 @@
 /**
-    Enter the input in Celsius and find the output Fahrenheit.
+    Enter the input in Celsius and Find the output in Fahrenheit.
     Formula: C/5 = (F-32)/9
           => F = ((C*9)/5 + 32)
 
