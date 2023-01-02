@@ -23,7 +23,7 @@
 [**3. Area of Circle:**](https://github.com/MuzakkirHossainMinhaz/before-contest-problem-solve/blob/main/3.%20Area%20of%20Circle.cpp)
 ```
     Calculate the area of a Circule.
-    Formula: A = PI * r^2
+    Formula: A = PI * radius^2
     PI = 3.14159
 
     Input: Radius: 5
