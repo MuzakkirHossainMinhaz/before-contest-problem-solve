@@ -1,5 +1,5 @@
 /**
-    Find Two Strings are Equal or Not.
+    Given Two Strings and Compare between them that they are Equal or Not.
 
     Input: abxcyz abxcyz
     Output: Equal
