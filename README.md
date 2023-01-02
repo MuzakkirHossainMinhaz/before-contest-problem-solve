@@ -91,3 +91,66 @@
     Input: HeLLo World!
     Output: HELLO WORLD!
 ```
+[**12. Count the Number of Alphabets, Digits and Special Characters in a String:**](https://github.com/MuzakkirHossainMinhaz/before-contest-problem-solve/blob/main/12.%20Count%20the%20Number%20of%20Alphabets%2C%20Digits%20and%20Special%20Characters%20in%20a%20String.cpp)
+```
+    Given a String and Count the Number of Alphabets, Digits and Special Characters in the String.
+    
+    Input: start_2023
+    Output:
+        Digits = 4
+        Alphabets = 5
+        Special Characters = 1
+```
+[**13. Find Two Strings are Equal or Not:**](https://github.com/MuzakkirHossainMinhaz/before-contest-problem-solve/blob/main/13.%20Find%20Two%20Strings%20are%20Equal%20or%20Not.cpp)
+```
+    Given Two Strings and Compare between them that they are Equal or Not.
+    
+    Input: abxcyz abxcyz
+    Output: Equal
+```
+[**14. A Given Number is Even or Odd:**](https://github.com/MuzakkirHossainMinhaz/before-contest-problem-solve/blob/main/14.%20A%20Given%20Number%20is%20Even%20or%20Odd.cpp)
+```
+    Take Input a Number from User and Check Whether the Number is Even or Odd.
+    Hints: every even number is divisible by 2.
+    
+    Input: 3332
+    Output: Even
+```
+[**15. A Given Year is Leap Year or Not:**](https://github.com/MuzakkirHossainMinhaz/before-contest-problem-solve/blob/main/15.%20A%20Given%20Year%20is%20Leap%20Year%20or%20Not.cpp)
+```
+    Take Input a Year from User and Check Whether the Given Year is Leap Year or Not.
+    
+    Input: 2023
+    Output: Not a Leap Year
+```
+[**16. Largest Number among Three Numbers:**](https://github.com/MuzakkirHossainMinhaz/before-contest-problem-solve/blob/main/16.%20Largest%20Number%20among%20Three%20Numbers.cpp)
+```
+    Take Three Numbers from the User and Find the Largest Number among Those Numbers.
+    
+    Input: 34 76 54
+    Output: Largest Number = 76
+```
+[**17. Entered Character is Vowel or Consonant:**](https://github.com/MuzakkirHossainMinhaz/before-contest-problem-solve/blob/main/17.%20Entered%20Character%20is%20Vowel%20or%20Consonant.cpp)
+```
+    Given a Character from User and Check Whether the Character is Vowel or Consonant.
+    Sol: a, e, i, o, u are vowel.
+    
+    Input: m
+    Output: Consonant
+```
+[**18. Print the Day Name of a Week:**](https://github.com/MuzakkirHossainMinhaz/before-contest-problem-solve/blob/main/18.%20Print%20the%20Day%20Name%20of%20a%20Week.cpp)
+```
+    Take a Number from User and Print the Day Name of a Week.
+    Hints: a week starts from Saturday.
+    
+    Input: 4
+    Output: Tuesday
+```
+[**19. A Candidate Age is Eligible for Casting the Vote or Not:**](https://github.com/MuzakkirHossainMinhaz/before-contest-problem-solve/blob/main/19.%20A%20Candidate%20Age%20is%20Eligible%20for%20Casting%20the%20Vote%20or%20Not.cpp)
+```
+    Take A Candidate's Age from User and Check the Candidate is Eligible for Casting the Vote or Not.
+    Hints: Less than or equal 18 years old peoples are eligible.
+    
+    Input: 23
+    Output: This person is eligible for casting the vote.
+```
