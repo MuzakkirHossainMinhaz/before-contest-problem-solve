@@ -1,5 +1,5 @@
 /**
-    Count the Number of Alphabets, Digits and Special Characters in a String.
+    Given a String and Count the Number of Alphabets, Digits and Special Characters in the String.
 
     Input: start_2023
     Output:
