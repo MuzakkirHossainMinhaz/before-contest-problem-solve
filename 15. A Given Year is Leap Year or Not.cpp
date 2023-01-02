@@ -1,5 +1,5 @@
 /**
-    A Given Year is Leap Year or Not.
+    Take Input a Year from User and Check Whether the Given Year is Leap Year or Not.
 
     Input: 2023
     Output: Not a Leap Year
