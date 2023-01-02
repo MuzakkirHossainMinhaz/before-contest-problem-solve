@@ -1,6 +1,6 @@
 /**
     Calculate the area of a Circle.
-    Formula: A = PI * r^2
+    Formula: A = PI * radius^2
     PI = 3.14159
 
     Input: Radius: 5
