@@ -1,5 +1,5 @@
 /**
-    Largest Number among Three Numbers.
+    Take Three Numbers from the User and Find the Largest Number among Those Numbers.
 
     Input: 34 76 54
     Output: Largest Number = 76
